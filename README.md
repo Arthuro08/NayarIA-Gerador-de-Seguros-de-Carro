@@ -23,7 +23,9 @@ O objetivo da **NayarIA v0.5** é estimar o valor anual do seguro automotivo com
 
 * **Algoritmo**: `LinearRegression` (Scikit-Learn)
 * **Acurácia na prova ($R^2$ Score)**: **~89,1%**
-* **Tratamento de Categóricas**: One-Hot Encoding (`pd.get_dummies`) gerando mais de 200 colunas binárias.
+* **Tratamento de colunas com valor string**: One-Hot Encoding (`pd.get_dummies`) gerando mais de 200 colunas binárias.
+* **Sem random_state**: o objetivo era ver o quanto a IA conseguiria suportar mudanças na prova sem perder pontuação
+
 
 ---
 
