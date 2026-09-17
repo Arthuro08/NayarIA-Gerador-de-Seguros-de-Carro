@@ -1,6 +1,6 @@
 # NayarIA v0.5 - Previsão de Seguro Automotivo 🚗💨
 
-Modelo de Machine Learning Supervisionado utilizando **Regressão Linear** treinado com um dataset em larga escala de **100.000 registros**, cobrindo **27 marcas** e **204 modelos de carros**, além de permitir que o usuário digite seus próprios dados para receber uma cotação em tempo real no terminal.
+Modelo de Machine Learning Supervisionado utilizando **Regressão Linear** treinado com um dataset de **100.000 linhas**, cobrindo **27 marcas** e **204 modelos de carros**, além de permitir que o usuário digite seus próprios dados para receber uma cotação em tempo real no terminal.
 
 ---
 
@@ -84,6 +84,5 @@ A IA irá:
 
 * **Python 3**
 * **Pandas** (manipulação, ETL e One-Hot Encoding)
-* **NumPy** (cálculos vetoriais e simulações estatísticas)
 * **Scikit-Learn** (modelagem estatística, divisão treino/teste e Regressão Linear)
 
