@@ -8,3 +8,4 @@ class Cores:
     AZUL = '\033[94m'
     FIM = '\033[0m'
     NEGRITO = '\033[1m'
+

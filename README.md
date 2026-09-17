@@ -86,3 +86,4 @@ A IA irá:
 * **Pandas** (manipulação, ETL e One-Hot Encoding)
 * **NumPy** (cálculos vetoriais e simulações estatísticas)
 * **Scikit-Learn** (modelagem estatística, divisão treino/teste e Regressão Linear)
+
